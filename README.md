@@ -43,5 +43,5 @@ To run the portfolio on your local machine:
 
 3. **Open the website locally**:
 
-- Open the index.html file directly in your browser
+- Open the `index.html` file directly in your browser
 - Or, open the project in Visual Studio Code and use the Live Server extension to preview changes in real time
